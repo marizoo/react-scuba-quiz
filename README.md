@@ -32,4 +32,4 @@
 
 
 ## IMAGE:
-![Screenshot of the App](./screenshots/xoxo)
+![Screenshot of the App](./screenshots/53.Scuba-quiz.png)
